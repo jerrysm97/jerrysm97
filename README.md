@@ -2,7 +2,7 @@
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F700FF&center=true&vCenter=true&width=535&lines=Secure+Full-stack+Developer;Cybersecurity+Enthusiast;Building+Cool+Stuff;Founder+of+Scan+the+Scammers" alt="Typing SVG" />
-</div>div>
+</div>
 
 ---
 
@@ -20,12 +20,13 @@ I am a **Secure Full-stack Developer** and **Cybersecurity Enthusiast** passiona
 
     #### Development
     <div align="left">
-      <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
-        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-          <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
-            <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white" />
-              <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
-                <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white" />
+      <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" />
+        <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white" />
+          <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
+            <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+              <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
+                <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
+                  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white" />
     </div>div>
 
     #### Security & Infrastructure
@@ -39,29 +40,30 @@ I am a **Secure Full-stack Developer** and **Cybersecurity Enthusiast** passiona
 
     ### Key Projects
 
-    #### NetSentinel-IDS (https://github.com/jerrysm97/NetSentinel-IDS)
+    #### [NetSentinel-IDS](https://github.com/jerrysm97/NetSentinel-IDS)
     An advanced Intrusion Detection System focusing on anomalous network traffic detection using Python.
 
-    #### Dream E2EE Chat (https://github.com/jerrysm97/dream-e2ee-chat)
+    #### [Dream E2EE Chat](https://github.com/jerrysm97/dream-e2ee-chat)
     A secure platform featuring **End-to-End Encryption** and **WebRTC** for private P2P communication.
 
-    #### Casual-Project-Alpha
-    A placeholder for a fun, creative side project - coming soon!
+    #### [CCTV-Spy-Project](#)
+    A security research project focusing on network-connected camera analysis and monitoring.
 
-    #### Experiment-Lab
-    A collection of small scripts and security research experiments.
+    #### [Casual-Project-Alpha](#)
+    A placeholder for a fun, creative side project - coming soon!
 
     ---
 
     ### Stats & Activity
 
     <div align="center">
-      <img src="https://github-readme-stats.vercel.app/api?username=jerrysm97&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jerrysm97&layout=compact&theme=tokyonight" alt="Top Languages" />
+      <img src="https://github-readme-stats.vercel.app/api?username=jerrysm97&show_icons=true&theme=radical&hide_rank=true" alt="GitHub Stats" />
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jerrysm97&layout=compact&theme=radical" alt="Top Languages" />
     </div>div>
 
     ---
 
     ### Connect with Me
-    [Portfolio](https://sujalmainali.com.np/) | [LinkedIn](https://linkedin.com/in/#) | [Facebook](https://www.facebook.com/profile.php?id=100084055246736) | [Instagram](https://www.instagram.com/sujalmainali_/)
+    [Portfolio](https://sujalmainali.com.np/) | [Facebook](https://www.facebook.com/sujal.mainali.102) | [Instagram](https://www.instagram.com/suz__zal09/?hl=en) | [WhatsApp](https://wa.me/9779746805637)
+    ---
     
