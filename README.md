@@ -11,10 +11,10 @@
 I am a **Secure Full-stack Developer** and **Cybersecurity Enthusiast** passionate about building privacy-first applications and exploring the depths of network security.
 
 - Current Focus: Intrusion Detection Systems and E2EE Communication.
-- - Core Interest: P2P Networking, Encryption, and Ethical Hacking.
-  - - Academic: Bachelor of Computer Science student.
+-- Core Interest: P2P Networking, Encryption, and Ethical Hacking.
+ - Academic: Bachelor of Computer Science student.
    
-    - ---
+  - ---
 
     ### My Toolbox
 
