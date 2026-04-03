@@ -1,35 +1,90 @@
-  About Me:
+<div align="center">
 
-  Sujal Mainali | Full Stack Architect & Systems Thinker<br><br>First-year CS student at IIMS College. I don't just write code; I architect systems, design logic-first solutions, and ship production-grade products. I operate at the intersection of engineering rigor and strategic problem-solving.<br><br>###  The Stack (Logic & Execution)<br><br>| Category | Technologies |<br>| :--- | :--- |<br>| Backend** | ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white) ![PHP](https://img.shields.io/badge/-PHP-777BB4?logo=php&logoColor=white) ![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?logo=laravel&logoColor=white) ![Express](https://img.shields.io/badge/-Express-000000?logo=express&logoColor=white) |<br>| **Frontend** | ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black) ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white) ![Tailwind](https://img.shields.io/badge/-TailwindCSS-06B6D4?logo=tailwindcss&logoColor=white) |<br>| **Database/ORMs** | ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/-SQLite-003B57?logo=sqlite&logoColor=white) **Drizzle ORM** |<br>| **Infrastructure** | ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white) ![Vercel](https://img.shields.io/badge/-Vercel-000000?logo=vercel&logoColor=white) ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white) |<br><br>---<br><br>###  Key Build Insights<br><br>####  [School Management System (ERP)](https://build-system-tau.vercel.app)<br>* **The Problem:** Fragmented institutional data and manual financial tracking.<br>* **The Solution:** A decoupled full-stack ERP with complex dunning workflows and payment reconciliation.<br>* **Key Tech:** TypeScript, Node.js, Express, Drizzle ORM, SQLite.<br><br>####  [Cricket Match Predictor](https://github.com/jerrysm97/cricket-prid)<br>* **The Logic:** Built a weighted prediction algorithm (85%+ accuracy) analyzing head-to-head records, team form, and toss data.<br>* **Architecture:** MVC structure with real-time data ingestion via CricAPI.<br>* **Key Tech:** React, Node.js, REST API Design.<br><br>#### [Chill at Hill](https://sujalmainali.com.np)<br>* **Ownership:** Conceived and shipped a complete hospitality platform from a blank file to live production.<br>* **Core Systems:** Custom booking engine and optimized property management logic.<br>* **Key Tech:** Laravel, MySQL, JavaScript.<br><br>---<br><br>###  How I Think & Work<br><br>* **Logic-First:** I prioritize understanding the "why" of a system over the syntax of a language.<br>* **Builder Mindset:** I optimize for shipping working, production-grade products, not just snippets.<br>* **Full Stack Ownership:** Comfortable managing everything from database schema design to frontend UX.<br>* **Strategic Advocacy:** Currently leading the **"Scan the Scammers"** global campaign, applying SEO and digital strategy to protect students worldwide.<br><br>---<br><br>  GitHub Analytics<br><br><p align="center"><br>  <img src="https://github-readme-stats.vercel.app/api?username=jerrysm97&show_icons=true&theme=radical&hide_border=true" alt="Sujal's GitHub Stats" /><br>  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jerrysm97&layout=compact&theme=radical&hide_border=true" alt="Top Languages" /><br></p><br><br>---<br><br> 🌐 Connect With Me<br><br>* **Portfolio:** [sujalmainali.com.np](https://sujalmainali.com.np)<br>* **Location:** Kathmandu, Nepal<br>* **Inquiry:** sujalmainali@email.com (Update with your actual email)
+# Sujal Mainali
 
+**Full Stack Architect · Security Researcher · Systems Thinker**
 
+First-year CS student building production-grade systems. I architect logic-first solutions and ship real products — not demos.
 
+[![Portfolio](https://img.shields.io/badge/Portfolio-sujalmainali.com.np-0A0A0A?style=for-the-badge&logo=vercel&logoColor=white)](https://sujalmainali.com.np)
+[![Email](https://img.shields.io/badge/Email-sujalmainali11@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sujalmainali11@gmail.com)
+[![Instagram](https://img.shields.io/badge/Instagram-suz__zal09-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/suz__zal09/)
 
-
- 🌐 Socials:
-
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/suz__zal09/?hl=en) [![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?logo=mastodon&logoColor=white)](https://mastodon.social/@Sujal Mainali) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sujalmainali11@gmail.com) 
-
-
-
-  Tech Stack:
-
-![Apache Groovy](https://img.shields.io/badge/Apache%20Groovy-4298B8.svg?style=for-the-badge&logo=Apache+Groovy&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
-
-  GitHub Stats:
-
-![](https://github-readme-stats.vercel.app/api?username=jerrysm97&theme=shadow_blue&hide_border=false&include_all_commits=false&count_private=false)<br/>
-
-![](https://nirzak-streak-stats.vercel.app/?user=jerrysm97&theme=shadow_blue&hide_border=false)<br/>
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=jerrysm97&theme=shadow_blue&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-
+</div>
 
 ---
 
-[![](https://visitcount.itsvg.in/api?id=jerrysm97&icon=0&color=0)](https://visitcount.itsvg.in)
+## 🏗️ Featured Projects
 
+### [IIMS IT Club Portal](https://github.com/jerrysm97/club-portal) — Institutional Platform
+> Full-stack club management OS with role-based access, real-time messaging, admin dashboards, and automated member workflows.
 
+`Next.js` `TypeScript` `Supabase` `Upstash Redis` `Tailwind CSS` `Resend`
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+---
+
+### [NetSentinel IDS](https://github.com/jerrysm97/NetSentinel-IDS) — Intrusion Detection System
+> Modular network security monitor detecting SYN floods, credential leaks, and ARP spoofing with an integrated URL risk analyzer.
+
+`Python` `Scapy` `Flask` `WHOIS` `SSL Analysis` `DNS Inspection`
+
+---
+
+### [Phantom-Eye](https://github.com/jerrysm97/Phantom-Eye) — Network Recon Platform
+> Offensive security tool for CCTV discovery and streaming across WiFi networks — with WiFi hopping and audio extraction.
+
+`Python` `Flask` `Socket.IO` `OpenCV` `nmap` `WebRTC`
+
+---
+
+### [ChatFlow Realtime](https://github.com/jerrysm97/chatflow-realtime) — Encrypted Messaging
+> End-to-end encrypted chat with WebRTC video calls, multimedia support, and PWA deployment via Capacitor.
+
+`React` `TypeScript` `Firebase` `WebRTC` `AES Encryption` `Tailwind CSS`
+
+---
+
+### [Cricket Match Predictor](https://github.com/jerrysm97/cricket-prid) — AI Prediction Engine
+> Weighted prediction algorithm (85%+ accuracy) analyzing head-to-head records, team form, venue stats, and toss impact.
+
+`React` `Node.js` `Express` `MongoDB` `CricAPI` `REST API`
+
+---
+
+### [Uni Scheduler](https://github.com/jerrysm97/uni-schedular) — Constraint Solver
+> Automated university timetable generator with a Python constraint-solving backend and React frontend.
+
+`React` `Node.js` `Python` `SQLite`
+
+---
+
+## 🛠️ Technical Stack
+
+| Layer | Technologies |
+| :--- | :--- |
+| **Frontend** | ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black&style=flat-square) ![Next.js](https://img.shields.io/badge/-Next.js-000?logo=next.js&logoColor=white&style=flat-square) ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white&style=flat-square) ![Tailwind](https://img.shields.io/badge/-Tailwind-06B6D4?logo=tailwindcss&logoColor=white&style=flat-square) |
+| **Backend** | ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white&style=flat-square) ![Express](https://img.shields.io/badge/-Express-000?logo=express&logoColor=white&style=flat-square) ![PHP](https://img.shields.io/badge/-PHP-777BB4?logo=php&logoColor=white&style=flat-square) ![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?logo=laravel&logoColor=white&style=flat-square) ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat-square) |
+| **Data** | ![Supabase](https://img.shields.io/badge/-Supabase-3ECF8E?logo=supabase&logoColor=white&style=flat-square) ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white&style=flat-square) ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white&style=flat-square) ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?logo=firebase&logoColor=black&style=flat-square) ![SQLite](https://img.shields.io/badge/-SQLite-003B57?logo=sqlite&logoColor=white&style=flat-square) |
+| **Security** | ![Scapy](https://img.shields.io/badge/-Scapy-2C2D72?style=flat-square) ![E2EE](https://img.shields.io/badge/-E2E_Encryption-000?style=flat-square) ![nmap](https://img.shields.io/badge/-nmap-4682B4?style=flat-square) |
+| **DevOps** | ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white&style=flat-square) ![Vercel](https://img.shields.io/badge/-Vercel-000?logo=vercel&logoColor=white&style=flat-square) ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=flat-square) |
+
+---
+
+## 📊 GitHub Analytics
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=jerrysm97&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jerrysm97&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" height="165" />
+</div>
+
+<div align="center">
+  <img src="https://nirzak-streak-stats.vercel.app/?user=jerrysm97&theme=github-dark-blue&hide_border=true&background=0d1117" />
+</div>
+
+---
+
+<div align="center">
+
+**Logic first. Ship always.**
+
+</div>
